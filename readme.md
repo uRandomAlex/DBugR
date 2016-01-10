@@ -1,8 +1,3 @@
-This clone of oubliette32's brilliant DBugR tool includes a small fix to support revisions in hook architecture in recent months.  All credit goes to oubilette32. This tool has been indispensable to me in tracking down CPU-hungry addons, etc.
-
-
--------------------------------------------------------------------------------------------------------------------
-
 
 PLEASE NOTE THAT USING THIS ADDON IS QUITE HEAVY AND IS FILLED WITH BUGS
 USE ONLY IF YOU'RE COMPLETELY AWARE THAT THIS WILL END UP CAUSING PROBLEMS
