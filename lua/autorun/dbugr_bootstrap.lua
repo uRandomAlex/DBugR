@@ -21,11 +21,11 @@
 
 if ( SERVER ) then 
 
-	AddCSLuaFile( );
-	AddCSLuaFile( "sh_settings.lua" );
-	AddCSLuaFile( "sh_init.lua" );
+	AddCSLuaFile()
+	AddCSLuaFile( "sh_dbugr_settings.lua" )
+	AddCSLuaFile( "sh_dbugr_init.lua" )
 
 end 
 
-include( "sh_settings.lua" ) 
-include( "sh_init.lua" );
+include( "sh_dbugr_settings.lua" ) 
+include( "sh_dbugr_init.lua" )
