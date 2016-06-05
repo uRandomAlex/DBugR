@@ -91,7 +91,7 @@ DBUGR_AUTHED_USERS 		= { };
 /*
 	If this is true and players pass Player.IsAdmin then they can use DBugR
 */
-DBUGR_ADMIN_AUTH 		= true;
+DBUGR_ADMIN_AUTH 		= false;
 
 /*
 	If this is true and players pass Player.IsSuperAdmin then they can use DBugR
